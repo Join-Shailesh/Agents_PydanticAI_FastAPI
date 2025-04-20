@@ -1,7 +1,7 @@
 # Agents_PydanticAI_FastAPI
 PydanticAI + FastAPI 
 
-# DEC
+# DESCRIPTION
 >> Create Agent for Movie Details using PydanticAI and FastAPI
 
 
