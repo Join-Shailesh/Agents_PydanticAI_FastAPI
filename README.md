@@ -14,3 +14,5 @@ PydanticAI + FastAPI
 # To Run the FastAPI
 >> poetry run fastapi dev api.py
 
+require .env file 
+GROQ_API_KEY=
